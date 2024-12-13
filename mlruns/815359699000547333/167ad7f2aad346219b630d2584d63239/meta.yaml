@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/815359699000547333/167ad7f2aad346219b630d2584d63239/artifacts
+end_time: 1734110187051
+entry_point_name: ''
+experiment_id: '815359699000547333'
+lifecycle_stage: active
+run_id: 167ad7f2aad346219b630d2584d63239
+run_name: intrigued-conch-178
+run_uuid: 167ad7f2aad346219b630d2584d63239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734110182052
+status: 3
+tags: []
+user_id: ual-laptop

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277393661204874127/3a3b0af4f5ba4d48850b401fe49ed19c/artifacts
+end_time: 1733975909248
+entry_point_name: ''
+experiment_id: '277393661204874127'
+lifecycle_stage: active
+run_id: 3a3b0af4f5ba4d48850b401fe49ed19c
+run_name: bouncy-loon-18
+run_uuid: 3a3b0af4f5ba4d48850b401fe49ed19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733975906930
+status: 4
+tags: []
+user_id: ual-laptop

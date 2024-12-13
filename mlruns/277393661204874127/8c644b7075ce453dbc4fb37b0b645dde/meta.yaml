@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277393661204874127/8c644b7075ce453dbc4fb37b0b645dde/artifacts
+end_time: 1733975164363
+entry_point_name: ''
+experiment_id: '277393661204874127'
+lifecycle_stage: active
+run_id: 8c644b7075ce453dbc4fb37b0b645dde
+run_name: trusting-ray-26
+run_uuid: 8c644b7075ce453dbc4fb37b0b645dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733975164157
+status: 4
+tags: []
+user_id: ual-laptop

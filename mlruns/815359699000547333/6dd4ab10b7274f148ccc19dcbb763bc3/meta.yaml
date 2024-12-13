@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/815359699000547333/6dd4ab10b7274f148ccc19dcbb763bc3/artifacts
+end_time: 1734108755140
+entry_point_name: ''
+experiment_id: '815359699000547333'
+lifecycle_stage: active
+run_id: 6dd4ab10b7274f148ccc19dcbb763bc3
+run_name: welcoming-bass-305
+run_uuid: 6dd4ab10b7274f148ccc19dcbb763bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734108748121
+status: 3
+tags: []
+user_id: ual-laptop

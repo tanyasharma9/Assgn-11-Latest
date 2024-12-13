@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/957023745517660585/027e7168a4f5482bb4e9d82f6e2178c4/artifacts
+end_time: 1734107554240
+entry_point_name: ''
+experiment_id: '957023745517660585'
+lifecycle_stage: active
+run_id: 027e7168a4f5482bb4e9d82f6e2178c4
+run_name: salty-dolphin-97
+run_uuid: 027e7168a4f5482bb4e9d82f6e2178c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734107554111
+status: 3
+tags: []
+user_id: ual-laptop
